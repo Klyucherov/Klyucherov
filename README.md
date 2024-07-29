@@ -132,10 +132,10 @@
       <br>Django
     </td>
     <td align="center" width="130">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="130" height="48" alt="Flask" />
+      <a href="https://fastapi.tiangolo.com/ru/" target="_blank" rel="noreferrer">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="130" height="48" alt="Fast Api" />
       </a>
-      <br>Flask
+      <br>FastAPI
     </td>
   </tr>
 </table>
