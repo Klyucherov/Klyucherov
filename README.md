@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evgeniy</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="40"/>, I'm Evgeniy</h1>
 <h3 align="center">Backend Developer</h3>
 
 ###
@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://www.github.com/Klyucherov" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Klyucherov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  
+  <a href="">[![LeetCode user kev7024](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkev7024&logo=leetcode&logoColor=yellow)](https://leetcode.com/kev7024/)</a>
+
+
 </div>
 
 
